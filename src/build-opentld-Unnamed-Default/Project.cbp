@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="Project" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install">
+         <Option working_dir="/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 install" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/local">
+         <Option working_dir="/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 install/local" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/strip">
+         <Option working_dir="/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 install/strip" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="list_install_components">
+         <Option working_dir="/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 list_install_components" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="main">
+         <Option output="/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/libmain.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../3rdparty/cvblobs" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../3rdparty/libconfig" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../libopentld/imacq" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../libopentld/mftracker" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../libopentld/tld" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/main" />
+            <Add directory="/home/ankush/catkin_ws/devel/include" />
+            <Add directory="/opt/ros/indigo/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.8" />
+            <Add directory="/usr/include/c++/4.8/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.8" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 main" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="main/fast">
+         <Option output="/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/libmain.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../3rdparty/cvblobs" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../3rdparty/libconfig" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../libopentld/imacq" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../libopentld/mftracker" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../libopentld/tld" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/main" />
+            <Add directory="/home/ankush/catkin_ws/devel/include" />
+            <Add directory="/opt/ros/indigo/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.8" />
+            <Add directory="/usr/include/c++/4.8/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.8" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 main/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="opentld">
+         <Option output="/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/opentld" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../3rdparty/cvblobs" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../3rdparty/libconfig" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../libopentld/imacq" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../libopentld/mftracker" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../libopentld/tld" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/main" />
+            <Add directory="/home/ankush/catkin_ws/devel/include" />
+            <Add directory="/opt/ros/indigo/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.8" />
+            <Add directory="/usr/include/c++/4.8/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.8" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 opentld" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="opentld/fast">
+         <Option output="/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/opentld" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../3rdparty/cvblobs" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../3rdparty/libconfig" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../libopentld/imacq" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../libopentld/mftracker" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/../libopentld/tld" />
+            <Add directory="/home/ankush/OpenTLD/OpenTLD/src/opentld/main" />
+            <Add directory="/home/ankush/catkin_ws/devel/include" />
+            <Add directory="/opt/ros/indigo/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/4.8" />
+            <Add directory="/usr/include/c++/4.8/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/4.8" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 opentld/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/ankush/OpenTLD/OpenTLD/src/build-opentld-Unnamed-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/ankush/OpenTLD/OpenTLD/src/opentld/OpenTLD.cpp">
+      </Unit>
+      <Unit filename="/home/ankush/OpenTLD/OpenTLD/src/opentld/main/Config.cpp">
+      </Unit>
+      <Unit filename="/home/ankush/OpenTLD/OpenTLD/src/opentld/main/Gui.cpp">
+      </Unit>
+      <Unit filename="/home/ankush/OpenTLD/OpenTLD/src/opentld/main/Main.cpp">
+      </Unit>
+      <Unit filename="/home/ankush/OpenTLD/OpenTLD/src/opentld/main/Settings.cpp">
+      </Unit>
+      <Unit filename="/home/ankush/OpenTLD/OpenTLD/src/opentld/main/Trajectory.cpp">
+      </Unit>
+      <Unit filename="/home/ankush/OpenTLD/OpenTLD/src/opentld/main/Config.h">
+      </Unit>
+      <Unit filename="/home/ankush/OpenTLD/OpenTLD/src/opentld/main/Gui.h">
+      </Unit>
+      <Unit filename="/home/ankush/OpenTLD/OpenTLD/src/opentld/main/Main.h">
+      </Unit>
+      <Unit filename="/home/ankush/OpenTLD/OpenTLD/src/opentld/main/Settings.h">
+      </Unit>
+      <Unit filename="/home/ankush/OpenTLD/OpenTLD/src/opentld/main/Trajectory.h">
+      </Unit>
+      <Unit filename="/home/ankush/OpenTLD/OpenTLD/src/opentld/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
